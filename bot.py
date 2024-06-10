@@ -1,4 +1,6 @@
+import pyrogram.utils
 
+pyrogram.utils.MIN_CHANNEL_ID = -1002215371674
 
 import pyromod.listen
 import sys
